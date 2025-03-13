@@ -1,13 +1,13 @@
 {
    "offsets":{
-      "uworld":"0x174A8638",
-      "Gameinstance":"0x208",
+      "uworld":"0x1714D538",
+      "Gameinstance":"0x210",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
-      "LocalPawn":"0x330",
+      "LocalPawn":"0x350",
       "PlayerState":"0x2C8",
-      "RootComponet":"0x190",
-      "GameState":"0x190",
+      "RootComponet":"0x320",
+      "GameState":"0x198",
       "LastSubmitTime":"0x360",
       "LastRenderTimeOnScreen":"0x368",
       "PersistentLevel":"0x30",
@@ -26,11 +26,11 @@
       "Velocity":"0x180",
       "PawnPrivate":"0x320",
       "PlayerArray":"0x2C0",
-      "relativelocation":"0x140",
+      "relativelocation":"0x138",
       "UCharacterMovementComponent":"0x318",
       "entity_actor":"0x310",
       "bIsReloadingWeapon":"0x331",
       "GlobalAnimRateScale":"0xa58",
-      "CurrentWeapon":"0xA80"
+      "CurrentWeapon":"0xa80"
    }
 }
